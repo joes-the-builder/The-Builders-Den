@@ -1,1 +1,1 @@
-you can use the macro for colour switching and purge for any single nozzle dual extruder just make sure wipe and purge location are sutiable also heres a printer cfg for creality crx pro and realited macros and requred files fro my cfg to work 
+you can use the macro for colour switching and purge for any single nozzle dual extruder !!just make sure wipe and purge location/MOVES are sutiable FOR YOUR PRINTER!! also heres a printer cfg for creality crx pro and realited macros and requred files fro my cfg to work 
